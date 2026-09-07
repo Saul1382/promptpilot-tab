@@ -83,8 +83,8 @@ Chrome Web Store 正在准备提交审核。审核通过后，正式安装入口
 - 联系邮箱：[support@promptpilot-tab.com](mailto:support@promptpilot-tab.com)
 
 <p>
-  <img src="assets/community/qq-group.jpg" alt="PromptPilot Tab QQ 交流群二维码，群号 1106177594" width="220">
-  <img src="assets/community/xiaohongshu-profile.jpg" alt="PromptPilot Tab 小红书账号二维码，账号 517411810" width="220">
+  <img src="assets/community/qq-group.jpg" alt="PromptPilot Tab QQ 交流群二维码，群号 1106177594" width="160">
+  <img src="assets/community/xiaohongshu-profile.jpg" alt="PromptPilot Tab 小红书账号二维码，账号 517411810" width="160">
 </p>
 
 提交公开内容前，请先删除提示词、账号、邮箱、API Key 和其他私人信息；安全问题请通过支持邮箱私下报告。
