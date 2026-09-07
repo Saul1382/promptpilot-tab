@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: PromptPilot Tab 官方网站
+    url: https://promptpilot-tab.com
+    about: 查看产品介绍、下载入口与最新动态
+  - name: Discord 社区
+    url: https://discord.gg/WEKBT36Q8U
+    about: 加入 PromptPilot Tab 国际用户社区
+  - name: 私密安全报告
+    url: mailto:support@promptpilot-tab.com
+    about: 安全问题请通过邮件私下报告，不要公开提交

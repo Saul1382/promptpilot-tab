@@ -1,0 +1,23 @@
+title: "[问答] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        在这里询问使用方法或排查普通问题。请勿公开 API Key、账号、邮箱、私人提示词或安全漏洞。
+  - type: textarea
+    id: question
+    attributes:
+      label: 你的问题
+      description: 请说明你想完成什么，以及目前遇到了什么情况。
+    validations:
+      required: true
+  - type: input
+    id: site
+    attributes:
+      label: 使用的网站（可选）
+      description: 例如 ChatGPT、Claude、Gemini 或通义千问。
+  - type: textarea
+    id: tried
+    attributes:
+      label: 已经尝试过什么（可选）
+      description: 简短说明已经尝试的操作，方便更快定位。

@@ -1,0 +1,18 @@
+title: "[想法] "
+labels:
+  - ideas
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 你的使用场景
+      description: 你正在用 AI 完成什么工作？
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 想法
+      description: PromptPilot Tab 怎样能更好地帮助你？
+    validations:
+      required: true

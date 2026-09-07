@@ -1,0 +1,21 @@
+title: "[用法分享] "
+labels:
+  - showcase
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎分享你的 PromptPilot Tab 工作流。请先移除提示词原文、账号、邮箱和其他私人信息。
+  - type: textarea
+    id: workflow
+    attributes:
+      label: 你怎样使用 PromptPilot Tab
+      description: 分享一个不含私人信息的真实工作流。
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 它帮你完成了什么
+    validations:
+      required: true
