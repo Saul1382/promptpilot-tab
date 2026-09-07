@@ -83,8 +83,8 @@ Read the full [privacy policy（隐私政策）](https://promptpilot-tab.com/pri
 - Support email（支持邮箱）: [support@promptpilot-tab.com](mailto:support@promptpilot-tab.com)
 
 <p>
-  <img src="assets/community/qq-group.jpg" alt="PromptPilot Tab QQ group QR code, group number 1106177594" width="320">
-  <img src="assets/community/xiaohongshu-profile.jpg" alt="PromptPilot Tab Xiaohongshu account QR code, account 517411810" width="320">
+  <img src="assets/community/qq-group.jpg" alt="PromptPilot Tab QQ group QR code, group number 1106177594" width="220">
+  <img src="assets/community/xiaohongshu-profile.jpg" alt="PromptPilot Tab Xiaohongshu account QR code, account 517411810" width="220">
 </p>
 
 Remove prompts, account details, email addresses, API Keys, and other private information before posting publicly. Report security issues privately through the support email.
