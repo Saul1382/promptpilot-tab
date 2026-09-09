@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo">Install from Chrome Web Store（Chrome 商店安装）</a> ·
   <a href="https://promptpilot-tab.com">Website（官方网站）</a> ·
   <a href="https://www.youtube.com/watch?v=gl7XjzoNPHM">56-second demo（产品演示）</a> ·
   <a href="https://github.com/Saul1382/promptpilot-tab/discussions">Discussions（交流与问答）</a> ·
@@ -60,9 +61,9 @@ Use the same preview-and-insert flow in ChatGPT, Claude, Gemini, DeepSeek, Kimi,
 
 ## Availability（获取方式）
 
-The Chrome Web Store listing（Chrome 扩展商店页面） is being prepared for review. The official installation link will appear on the [website](https://promptpilot-tab.com) and in this repository after approval. Until then, please do not install packages from unofficial sources.
+PromptPilot Tab is publicly available from the [Chrome Web Store（Chrome 扩展商店）](https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo). Please do not install packages from unofficial sources.
 
-Star this repository to follow launch updates, or join the conversation in [GitHub Discussions（GitHub 讨论区）](https://github.com/Saul1382/promptpilot-tab/discussions).
+Star this repository to follow future updates, or join the conversation in [GitHub Discussions（GitHub 讨论区）](https://github.com/Saul1382/promptpilot-tab/discussions).
 
 ## Privacy and control（隐私与控制）
 
