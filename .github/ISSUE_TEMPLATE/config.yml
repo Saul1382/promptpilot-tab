@@ -3,6 +3,9 @@ contact_links:
   - name: Chrome 商店安装 PromptPilot Tab
     url: https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo
     about: 从官方 Chrome 商店页面安装扩展
+  - name: Edge 商店安装 PromptPilot Tab
+    url: https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi
+    about: 从官方 Microsoft Edge 加载项商店安装扩展
   - name: PromptPilot Tab 官方网站
     url: https://promptpilot-tab.com
     about: 查看产品介绍、下载入口与最新动态

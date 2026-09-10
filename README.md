@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo">Chrome 商店安装</a> ·
+  <a href="https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi">Edge 商店安装</a> ·
   <a href="https://promptpilot-tab.com">官方网站</a> ·
   <a href="https://www.youtube.com/watch?v=gl7XjzoNPHM">56 秒产品演示</a> ·
   <a href="https://github.com/Saul1382/promptpilot-tab/discussions">交流与问答</a> ·
@@ -61,7 +62,7 @@ PromptPilot Tab 是一款面向主流人工智能（Artificial Intelligence，AI
 
 ## 当前获取方式
 
-PromptPilot Tab 已在 Chrome Web Store 公开发布：[前往官方商店安装](https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo)。请勿从非官方来源下载安装包。
+PromptPilot Tab 已在 Chrome Web Store 和 Microsoft Edge Add-ons 公开发布：[Chrome 商店安装](https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo) · [Edge 商店安装](https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi)。请勿从非官方来源下载安装包。
 
 如果你想关注后续更新，可以为本仓库点亮 **Star**，或在 [Discussions](https://github.com/Saul1382/promptpilot-tab/discussions) 中交流。
 

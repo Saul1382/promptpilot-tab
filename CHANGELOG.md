@@ -10,3 +10,4 @@ This file records user-facing PromptPilot Tab releases and meaningful public pro
 ## 1.0.0 — 2026-09-08
 
 - Published PromptPilot Tab on the [Chrome Web Store](https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo).
+- Published PromptPilot Tab on [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi).

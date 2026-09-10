@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo">Install from Chrome Web Store（Chrome 商店安装）</a> ·
+  <a href="https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi">Install from Microsoft Edge Add-ons（Edge 商店安装）</a> ·
   <a href="https://promptpilot-tab.com">Website（官方网站）</a> ·
   <a href="https://www.youtube.com/watch?v=gl7XjzoNPHM">56-second demo（产品演示）</a> ·
   <a href="https://github.com/Saul1382/promptpilot-tab/discussions">Discussions（交流与问答）</a> ·
@@ -61,7 +62,7 @@ Use the same preview-and-insert flow in ChatGPT, Claude, Gemini, DeepSeek, Kimi,
 
 ## Availability（获取方式）
 
-PromptPilot Tab is publicly available from the [Chrome Web Store（Chrome 扩展商店）](https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo). Please do not install packages from unofficial sources.
+PromptPilot Tab is publicly available from the [Chrome Web Store（Chrome 扩展商店）](https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo) and [Microsoft Edge Add-ons（Microsoft Edge 加载项商店）](https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi). Please do not install packages from unofficial sources.
 
 Star this repository to follow future updates, or join the conversation in [GitHub Discussions（GitHub 讨论区）](https://github.com/Saul1382/promptpilot-tab/discussions).
 
