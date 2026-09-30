@@ -14,6 +14,7 @@
   <a href="https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo">Install from Chrome Web Store（Chrome 商店安装）</a> ·
   <a href="https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi">Install from Microsoft Edge Add-ons（Edge 商店安装）</a> ·
   <a href="https://promptpilot-tab.com">Website（官方网站）</a> ·
+  <a href="CHANGELOG.md">Updates（更新记录）</a> ·
   <a href="https://www.youtube.com/watch?v=gl7XjzoNPHM">56-second demo（产品演示）</a> ·
   <a href="https://github.com/Saul1382/promptpilot-tab/discussions">Discussions（交流与问答）</a> ·
   <a href="https://github.com/Saul1382/promptpilot-tab/issues/new/choose">Issues（问题反馈）</a> ·
@@ -25,6 +26,13 @@ PromptPilot Tab is a browser prompt enhancement tool（浏览器提示词增强�
 ```text
 Write an idea → Review five sections → Edit if needed → Optional AI optimization → Press Tab
 ```
+
+## Recent updates（最近更新）
+
+- **1.0.2 · Interactive quick start（交互教程）**: a supplied example walks new users through the real local five-part preview（本地五模块预览）, editing, Tab insertion（Tab 插入） and template recommendations（模板推荐）. No sign-in needed; the AI illustration（AI 示意） makes no model request and spends no credits. Replay from Quick start guide（使用教程） in the extension popup（扩展弹出页）.
+- **1.0.1 · English content and progressive results（英文内容与渐进展示）**: 233 English official templates（英文官方模板） and language-aware local/AI optimization（本地与 AI 优化）. Official AI shows complete sections progressively; custom models（自定义模型） still return complete results at once. Improved English layouts（英文排版）, hover labels（悬浮说明） and button corners.
+
+Read the [full changelog（完整更新记录）](CHANGELOG.md), [GitHub releases（版本页面）](https://github.com/Saul1382/promptpilot-tab/releases) or [website updates（官网更新记录）](https://promptpilot-tab.com/changelog). Store rollout（商店推送） can differ; check your installed version.
 
 ## See the real workflow
 
@@ -56,7 +64,7 @@ Browse, search, and save community templates（社区模板）, or keep your own
 
 ### Work across 12 leading AI chat sites
 
-Use the same preview-and-insert flow in ChatGPT, Claude, Gemini, DeepSeek, Kimi, Qwen, Yuanbao, Doubao, Grok, Perplexity, NotebookLM, and Google AI Studio.
+Use the same preview-and-insert flow in ChatGPT, Claude, Gemini, DeepSeek, Kimi, Qianwen（通义千问）, Qwen Studio（Qwen 聊天网站）, Yuanbao（腾讯元宝）, Doubao（豆包）, Grok, Perplexity, and NotebookLM.
 
 ![The 12 AI chat sites supported by PromptPilot Tab](assets/screenshots/05-twelve-ai-sites.png)
 

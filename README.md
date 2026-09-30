@@ -14,6 +14,7 @@
   <a href="https://chromewebstore.google.com/detail/promptpilot-tab/onlkbnbjokbjbbhmaodfiejfbpldnjjo">Chrome 商店安装</a> ·
   <a href="https://microsoftedge.microsoft.com/addons/detail/ddifkpgknjgnahdekeneclcjjigapfoi">Edge 商店安装</a> ·
   <a href="https://promptpilot-tab.com">官方网站</a> ·
+  <a href="CHANGELOG.md">更新记录</a> ·
   <a href="https://www.youtube.com/watch?v=gl7XjzoNPHM">56 秒产品演示</a> ·
   <a href="https://github.com/Saul1382/promptpilot-tab/discussions">交流与问答</a> ·
   <a href="https://github.com/Saul1382/promptpilot-tab/issues/new/choose">反馈问题</a> ·
@@ -25,6 +26,13 @@ PromptPilot Tab 是一款面向主流人工智能（Artificial Intelligence，AI
 ```text
 写下想法 → 五模块预览 → 检查或修改 → 可选 AI 优化 → 按 Tab 插入
 ```
+
+## 最近更新
+
+- **1.0.2 · 三步交互教程**：新安装后跟着示例，亲手体验真实本地五模块、编辑、`Tab` 插入及模板推荐。无需登录；AI 环节明确为示意，不调用模型或消耗积分。可从扩展弹出页的“使用教程”随时重看。
+- **1.0.1 · 英文内容与渐进展示**：新增 233 条英文官方模板，语言选择贯穿本地与 AI 优化；官方 AI 的完整模块逐步出现，自定义模型仍一次性返回。优化英文排版、长文字悬浮说明和按钮悬停边角。
+
+查看[完整版本说明](CHANGELOG.md)、[GitHub 版本页面](https://github.com/Saul1382/promptpilot-tab/releases)或[官网更新记录](https://promptpilot-tab.com/changelog)。商店审核与分批推送可能不同，请以已安装扩展的版本号为准。
 
 ## 先看真实效果
 
@@ -56,7 +64,7 @@ PromptPilot Tab 是一款面向主流人工智能（Artificial Intelligence，AI
 
 ### 支持 12 个主流 AI 对话网站
 
-在 ChatGPT、Claude、Gemini、DeepSeek、Kimi、通义千问、腾讯元宝、豆包、Grok、Perplexity、NotebookLM 和 Google AI Studio 中保持一致的预览与插入流程。
+在 ChatGPT、Claude、Gemini、DeepSeek、Kimi、通义千问、Qwen Studio、腾讯元宝、豆包、Grok、Perplexity 和 NotebookLM 中保持一致的预览与插入流程。
 
 ![PromptPilot Tab 支持的 12 个 AI 对话网站](assets/screenshots/05-twelve-ai-sites.png)
 
